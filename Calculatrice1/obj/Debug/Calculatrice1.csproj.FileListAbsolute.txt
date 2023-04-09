@@ -1,0 +1,10 @@
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\bin\Debug\Calculatrice1.exe.config
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\bin\Debug\Calculatrice1.exe
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\bin\Debug\Calculatrice1.pdb
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.csproj.AssemblyReference.cache
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.Form1.resources
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.Properties.Resources.resources
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.csproj.GenerateResource.cache
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.csproj.CoreCompileInputs.cache
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.exe
+C:\Users\youss\source\repos\Calculatrice1\Calculatrice1\obj\Debug\Calculatrice1.pdb
